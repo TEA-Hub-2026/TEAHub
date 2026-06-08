@@ -22,7 +22,11 @@ O TEAHub é uma plataforma digital desenvolvida para apoiar clínicas e profissi
 | **Segurança de Dados e Prevenção de Erros** | Priorizando a integridade dos dados, todas as ações críticas — como salvar alterações, atualizar registros ou excluir cadastros — possuem um sistema de feedback imediato, exibindo mensagens de confirmação ao usuário para evitar erros operacionais e ações irreversíveis. |
 
 ## 📄 Diagramas:
-### c. Diagrama de Entidade-Relacionamento 
+### c. Diagrama de Entidade-Relacionamento
+<div align="center">
+  <img src=".diagramas/Diagrama DER Lógica - TeaHub.drawio.png" alt="Descrição da imagem" width="500">
+</div>
+
 ### d. Diagrama de Componentes
 
 ## ✔️ e. Checklist de inspeção de Qualidade:
