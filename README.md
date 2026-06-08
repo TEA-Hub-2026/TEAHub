@@ -67,10 +67,8 @@ O TEAHub é uma plataforma digital projetada para otimizar o fluxo de trabalho d
 * Abra o arquivo ConexaoBanco.java.
 * Atualize os parâmetros de conexão (URL, usuário e senha) conforme a sua configuração local do PostgreSQL.
 
-4. Bibliotecas e Dependências
-* Este projeto utiliza a biblioteca FlatLaf para garantir uma interface gráfica moderna e consistente. Certifique-se de que o arquivo .jar da biblioteca esteja corretamente incluído no Classpath da sua IDE.
+4. Execução
 
-5. Execução
 Após configurar a conexão e verificar as bibliotecas:
 * Localize a classe principal no pacote teahub chamada TEAHub.java.
 * Clique com o botão direito sobre o arquivo e selecione "Run File".
