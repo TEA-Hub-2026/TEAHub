@@ -24,10 +24,13 @@ O TEAHub é uma plataforma digital desenvolvida para apoiar clínicas e profissi
 ## 📄 Diagramas:
 ### c. Diagrama de Entidade-Relacionamento
 <div align="center">
-  <img src="./diagramas/Diagrama%20DER%20L%C3%B3gica%20-%20TeaHub.drawio.png" width="500">
+  <img src="./diagramas/Diagrama%20DER%20-%20TeaHub.drawio..png" width="500">
 </div>
 
 ### d. Diagrama de Componentes
+<div align="center">
+  <img src="./diagramas/Diagrama%20de%20Componentes%20-%20TeaHub.drawio.jpeg" width="500">
+</div>
 
 ## ✔️ e. Checklist de inspeção de Qualidade:
 **🛠️ Engenharia de Software**
