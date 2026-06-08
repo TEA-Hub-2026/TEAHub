@@ -18,7 +18,7 @@ O TEAHub é uma plataforma digital desenvolvida para apoiar clínicas e profissi
 | **Gestão de Acessos e Perfis** | Módulo de autenticação com fluxos de cadastro distintos para Clínicas (Administradores) e Profissionais. O fluxo de trabalho é iniciado no login, direcionando o usuário para o seu respectivo painel de operações. |
 | **Gestão Completa de Pacientes e Atendimentos** | Operações de CRUD (Criar, Ler, Atualizar, Deletar) robustas, permitindo o cadastro, edição de prontuários, atualização de registros e exclusão controlada de pacientes e atendimentos. |
 | **Interface de Operação Profissional** | O painel do profissional oferece acesso direto ao histórico, possibilitando visualizar detalhes específicos de atendimentos anteriores e prontuários detalhados de cada paciente, facilitando a continuidade do tratamento. |
-| **Módulo de Gestão de Clínicas** | O sistema inclui uma tela de "Menu Clínica", estruturada como um protótipo de alta fidelidade para demonstrar a arquitetura das futuras funcionalidades administrativas que serão integradas ao ecossistema TEAHub. |
+| **Módulo de Gestão de Clínicas** | O sistema inclui uma tela de "Menu Clínica", estruturada como um protótipo para demonstrar a arquitetura das futuras funcionalidades administrativas que serão integradas ao ecossistema TEAHub. |
 | **Segurança de Dados e Prevenção de Erros** | Priorizando a integridade dos dados, todas as ações críticas — como salvar alterações, atualizar registros ou excluir cadastros — possuem um sistema de feedback imediato, exibindo mensagens de confirmação ao usuário para evitar erros operacionais e ações irreversíveis. |
 
 ## 📄 Diagramas:
