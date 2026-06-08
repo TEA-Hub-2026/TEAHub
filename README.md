@@ -11,7 +11,7 @@
 * Thiago Borges Menezes Silva
 
 ## 🖥️ b. Apresentação do Sistema:
-O TEAHub é uma plataforma digital desenvolvida para apoiar clínicas e profissionais que atuam no atendimento de crianças com Transtorno do Espectro Autista (TEA). O sistema moderniza o acompanhamento terapêutico, centralizando o registro de pacientes, profissionais e atendimentos em um ambiente seguro. A plataforma auxilia na tomada de decisões clínicas através de um monitoramento baseado em dados, substituindo processos manuais e dispersos por uma gestão organizada e eficiente. Com base nisso, aqui estão algumas de suas principais funcionalidades desenvolvidas para essa etapa:
+O TEAHub é uma plataforma digital projetada para otimizar o fluxo de trabalho de clínicas e profissionais especializados no atendimento de crianças com Transtorno do Espectro Autista (TEA). Integrada ao GAMEHUB, um aplicativo gamificado voltado ao estímulo do desenvolvimento cognitivo, a solução centraliza o gerenciamento de pacientes, profissionais e atendimentos em um ambiente seguro e eficiente. O sistema visa modernizar o acompanhamento terapêutico por meio de uma gestão baseada em dados, substituindo processos manuais dispersos por uma abordagem analítica que fundamenta a tomada de decisão clínica. Considerando o cronograma de entrega estabelecido para esta etapa, o escopo foi estrategicamente delimitado para focar na implementação das funcionalidades essenciais, garantindo a entrega dos módulos fundamentais que compõem a base estrutural do sistema, conforme descrito a seguir: 
 
 | Principais Funcionalidades: | Descrição: |
 | :--- | :--- |
@@ -74,3 +74,6 @@ O TEAHub é uma plataforma digital desenvolvida para apoiar clínicas e profissi
 Após configurar a conexão e verificar as bibliotecas:
 * Localize a classe principal no pacote teahub chamada TEAHub.java.
 * Clique com o botão direito sobre o arquivo e selecione "Run File".
+
+## 🖊️ Commits:
+Os commits realizados documentam a participação equitativa dos membros da equipe. Todas as decisões estratégicas e implementações do sistema foram fruto de um esforço colaborativo, refletindo o compromisso coletivo com a entrega do projeto.
