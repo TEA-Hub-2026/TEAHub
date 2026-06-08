@@ -68,7 +68,7 @@ O TEAHub é uma plataforma digital projetada para otimizar o fluxo de trabalho d
 * Atualize os parâmetros de conexão (URL, usuário e senha) conforme a sua configuração local do PostgreSQL.
 
 4. Bibliotecas e Dependências
-* Este projeto utiliza a biblioteca FlatLaf para garantir uma interface gráfica moderna e consistente. Certifique-se de que o arquivo .jar da biblioteca (localizado na pasta lib ou referenciado na aba Libraries do seu projeto) esteja corretamente incluído no Classpath da sua IDE. Caso o projeto não identifique automaticamente ao abrir, adicione-o manualmente nas configurações de Project Properties > Libraries.
+* Este projeto utiliza a biblioteca FlatLaf para garantir uma interface gráfica moderna e consistente. Certifique-se de que o arquivo .jar da biblioteca esteja corretamente incluído no Classpath da sua IDE.
 
 5. Execução
 Após configurar a conexão e verificar as bibliotecas:
