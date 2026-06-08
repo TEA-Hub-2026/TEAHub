@@ -24,7 +24,7 @@ O TEAHub é uma plataforma digital desenvolvida para apoiar clínicas e profissi
 ## 📄 Diagramas:
 ### c. Diagrama de Entidade-Relacionamento
 <div align="center">
-  <img src=".diagramas/Diagrama DER Lógica - TeaHub.drawio.png" alt="Descrição da imagem" width="500">
+  <img src="./diagramas/Diagrama%20DER%20L%C3%B3gica%20-%20TeaHub.drawio.png" width="500">
 </div>
 
 ### d. Diagrama de Componentes
